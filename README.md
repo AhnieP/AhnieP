@@ -23,7 +23,7 @@ I'm currently working as a **healthcare data analyst**, building tools and dashb
 
 ---
 
-## 📁 Featured Projects
+## 📁 View My Projects
 
 ### 📊 Population Analysis Dashboard (Power BI)  
 Developed a dynamic Power BI dashboard to explore population health trends across demographics, locations, and time periods. Enabled stakeholders to identify high-risk groups, service coverage gaps, and emerging health needs for better planning and intervention.
@@ -36,13 +36,20 @@ Designed a reusable Excel framework for cleaning and validating healthcare datas
 
 ---
 
+## 📁 Certificate
+Afebabalola Univery Bachelor of Science (2019)
+Ahmadu Bello University Masters in Public Health (2025)
+Delliote Data Analytics Job Simulation (2025)
+Edgeline Academy Data Analytics Professional (2025)
+
+
 ## 📫 Let's Connect
 
 I’m always excited to collaborate on data projects in health, public policy, or social impact. Feel free to connect with me:
 
 - [LinkedIn](http://www.linkedin.com/in/anna-paul-427aa7248)  
 - [Email](mailto:annapaul668@gmail.com)  
-- [View My Pojects](https://github.com/AhnieP/MYPROJECTS)
+- [View My Projects](https://github.com/AhnieP/MYPROJECTS)
 
 ---
 

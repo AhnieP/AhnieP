@@ -42,7 +42,7 @@ I’m always excited to collaborate on data projects in health, public policy, o
 
 - [LinkedIn](http://www.linkedin.com/in/anna-paul-427aa7248)  
 - [Email](mailto:annapaul668@gmail.com)  
-- [View My Portfolio](#)
+- [View My Pojects](https://github.com/AhnieP/MYPROJECTS)
 
 ---
 

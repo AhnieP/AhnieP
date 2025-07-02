@@ -25,6 +25,9 @@ I'm currently working as a **healthcare data analyst**, building tools and dashb
 
 ## 📁 My Projects
 
+[View My Projects](https://github.com/AhnieP/MYPROJECTS)
+
+
 ### 📊 Population Analysis Dashboard (Power BI)  
 Developed a dynamic Power BI dashboard to explore population health trends across demographics, locations, and time periods. Enabled stakeholders to identify high-risk groups, service coverage gaps, and emerging health needs for better planning and intervention.
 
@@ -56,7 +59,6 @@ I’m always excited to collaborate on data projects in health, public policy, o
 
 - [LinkedIn](http://www.linkedin.com/in/anna-paul-427aa7248)  
 - [Email](mailto:annapaul668@gmail.com)  
-- [View My Projects](https://github.com/AhnieP/MYPROJECTS)
 
 ---
 

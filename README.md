@@ -1,11 +1,11 @@
 # About-Me
-# 👋 Hi, I'm Anna Paul
+# Hi, I'm Anna Paul
 
 Welcome to my GitHub! I'm a **Data Analyst** and **Public Health Analyst** passionate about leveraging data to improve data driven business decision in organizationas and health outcomes. With hands-on experience in **Excel**, **Power BI**, and **SQL**, I specialize in making data into meaningful and actionable insights; supporting organizations in making data-informed, ethical decisions that drive both impact and profitability.
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 - **Excel**: Advanced formulas, pivot tables, dynamic dashboards, data cleaning  
 - **Power BI**: Data modeling, DAX, interactive visualizations, healthcare dashboards  
@@ -16,34 +16,29 @@ Welcome to my GitHub! I'm a **Data Analyst** and **Public Health Analyst** passi
 - **Soft Skills**: Critical thinking, communication, adaptability, problem-solving, attention to detail, empathy  
 
 ---
-
-## 🎯 What I Do
-
-I'm currently working as a **healthcare data analyst**, building tools and dashboards that support better decision-making in health systems. With a background in public health, I focus on using data to address real-world challenges — from tracking health service utilization to evaluating health programs and interventions.
-
 ---
 
-## 📁 My Projects
+## My Projects
 
 [View My Projects](https://github.com/AhnieP/MYPROJECTS)
 
 
-### 📊 Population Analysis Dashboard (Power BI)  
+### Population Analysis Dashboard (Power BI)  
 Developed a dynamic Power BI dashboard to explore population health trends across demographics, locations, and time periods. Enabled stakeholders to identify high-risk groups, service coverage gaps, and emerging health needs for better planning and intervention.
 
 View project report [here](https://github.com/AhnieP/POPULATION-ANALYSIS)
 
-### 🧬 Oncology Patient Care Duration Analysis (Power BI + Excel)  
+### Oncology Patient Care Duration Analysis (Power BI + Excel)  
 Created a comprehensive report analyzing the length of care for cancer patients, from diagnosis through treatment phases. Used Power BI to visualize durations, uncover bottlenecks, and support oncology care optimization.
 
 View project report [here](https://github.com/AhnieP/Oncology-Patient-Tracking-System)
 
-### 🧹 Data Cleaning & Validation Framework (Excel)  
+### Data Cleaning & Validation Framework (Excel)  
 Designed a reusable Excel framework for cleaning and validating healthcare datasets. Tasks included missing value handling, outlier checks, and standardization — improving data quality for downstream analysis and reporting.
 
 ---
 
-## 📁 Certificate
+## Certificate
 Afebabalola Univery Bachelor of Science Biochemistry (2019)
 
 Ahmadu Bello University Masters in Public Health (2025)
@@ -53,7 +48,7 @@ Delliote Data Analytics Job Simulation (2025)
 Edgeline Academy Data Analytics Professional (2025)
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 I’m always excited to collaborate on data projects in health, public policy, or social impact. Feel free to connect with me:
 

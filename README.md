@@ -1,4 +1,4 @@
-# About-Me
+# AhnieP
 # Hi, I'm Anna Paul
 
 Welcome to my GitHub! I'm a **Data Analyst** and **Public Health Analyst** passionate about leveraging data to improve data driven business decision in organizationas and health outcomes. With hands-on experience in **Excel**, **Power BI**, and **SQL**, I specialize in making data into meaningful and actionable insights; supporting organizations in making data-informed, ethical decisions that drive both impact and profitability.

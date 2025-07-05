@@ -47,10 +47,10 @@ Designed a reusable Excel framework for cleaning and validating healthcare datas
 ---
 
 ## Certificate
-Afebabalola Univery Bachelor of Science Biochemistry (2019)
-Ahmadu Bello University Masters in Public Health (2025)
-Delliote Data Analytics Job Simulation (2025)
-Edgeline Academy Data Analytics Professional (2025)
+- Afebabalola Univery Bachelor of Science Biochemistry (2019)
+- Ahmadu Bello University Masters in Public Health (2025)
+- Delliote Data Analytics Job Simulation (2025)
+- Edgeline Academy Data Analytics Professional (2025)
 
 
 ## Let's Connect

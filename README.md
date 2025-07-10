@@ -58,7 +58,8 @@ Designed a reusable Excel framework for cleaning and validating healthcare datas
 I’m always excited to collaborate on data projects in health, public policy, or social impact. Feel free to connect with me:
 
 - [LinkedIn](http://www.linkedin.com/in/anna-paul-427aa7248)  
-- [Email](mailto:annapaul668@gmail.com)  
+- [Email](mailto:annapaul668@gmail.com)
+- [Chat](https://wa.me/+2348142944324)
 
 ---
 
